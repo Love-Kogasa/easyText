@@ -1,0 +1,24 @@
+{
+  "name": "easy-text",
+  "version": "1.0.0",
+  "description": "A Hypertext Language Similar to Markdown",
+  "main": "easyText.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Love-Kogasa/easyText.git"
+  },
+  "keywords": [
+    "hypertext",
+    "markdown",
+    "md"
+  ],
+  "author": "Love-Kogasa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Love-Kogasa/easyText/issues"
+  },
+  "homepage": "https://github.com/Love-Kogasa/easyText#readme"
+}
