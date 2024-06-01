@@ -22,8 +22,8 @@ this is same as↑。
 u can not only use en symbol in easyText
 Cool, right?
 ***
-Oh let's learn how to use easyText
-easyText.js have a tool class for u easy to use easyText on web ( don't need node runtime )
+Oh let's learn how to use easyText<br>
+easyText.js have a tool class for u easy to use easyText on web ( don't need node runtime )<br>
 I will give u two code version because easyText use LiveScript to make
 ```js
 //example on test2.html
@@ -104,8 +104,7 @@ etp
 print = console.log
 #www
 
-print etp
-  .parse!
+print etp.parse!
 ```
 how easy it <br>
 and Emmm<br>
@@ -113,13 +112,13 @@ u can use easyText.list to see the symbol list<br>
 All right u can write it too<br>
 ***
 **class easyTextUtil**
-constructor( data )
-data for then make
-getContent( f="(", t=")" )
-get f to t 's string
-rand( max )
+constructor( data )<br>
+data for then make<br>
+getContent( f="(", t=")" )<br>
+get f to t 's string<br>
+rand( max )<br>
 As randInt
 ***
-Thank you vvvvvvvvvvvvvvery much for see finishing it
-And welcome make module for easyText
+Thank you vvvvvvvvvvvvvvery much for see finishing it<br>
+And welcome make module for easyText<br>
 w
